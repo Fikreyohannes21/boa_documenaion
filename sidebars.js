@@ -8,6 +8,7 @@ module.exports = {
         'base24-eps/introduction',
         'base24-eps/base24 installation',
         'base24-eps/interface',
+        'base24-eps/upgrade',
       ],
     },
     {

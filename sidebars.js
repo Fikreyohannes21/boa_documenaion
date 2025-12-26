@@ -21,6 +21,7 @@ module.exports = {
         'CMM/operational 3',
         'CMM/BIN update',
         'CMM/new user',
+        'CMM/Automated',
       ],
     },
     'troubleshooting',
